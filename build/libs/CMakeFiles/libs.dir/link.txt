@@ -1,0 +1,2 @@
+C:\Strawberry\c\bin\ar.exe qc liblibs.a CMakeFiles/libs.dir/src/lib.cpp.obj
+C:\Strawberry\c\bin\ranlib.exe liblibs.a
